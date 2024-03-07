@@ -1,5 +1,6 @@
 // const url = "https://restcountries.com/v3.1/all";
-import { combine } from "./data.js";
+import { data } from "./data.js";
+// import { combine } from "./data.js";
 // import { text1, text2, data1 } from "./data.js";
 // const data = require('./data.js')
 
